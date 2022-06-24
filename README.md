@@ -1,6 +1,7 @@
-### Hi there I'm Rayhan
+### Hi there 
+I'm Rayhan
 <a href="https://app.daily.dev/rayhan420"><img src="https://github.com/rayhanrahman25/rayhanrahman25/blob/main/devcard.svg" width="400" alt="Rayhan Dev Card"/></a>
-**rayhanrahman25/rayhanrahman25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+
 
 Here are some ideas to get you started:
 
