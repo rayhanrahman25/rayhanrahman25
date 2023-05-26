@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Working as a WordPress Developer
+- 🔭 Working as a WordPress & Laravel Developer
 - 🌱 Currently learning Shopify App Development With Laravel
 - 👯 I’m Looking To Collaborate On WordPress And Open Source Porjects
 - 💬 Ask Me About WordPress Development, PHP, JavaScript
