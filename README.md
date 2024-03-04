@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m Looking To Collaborate On WordPress And Open Source Porjects
 - 💬 Ask Me About WordPress Development, PHP, JavaScript
 - 📫 How to reach me: rayhanrahman880@gmail.com
-- ⚡ Fun fact: I'm Funny
+- ⚡ Fun fact: I'm Not Funny
 
