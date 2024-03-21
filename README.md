@@ -41,15 +41,15 @@
    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 
-  - 🔭 I’m currently working as a **WordPress & Laravel Developer**
+   🔭 I’m currently working as a **WordPress & Laravel Developer**
 
-- 🌱 I’m currently learning **Gutenberg Block Development**
+   🌱 I’m currently learning **Gutenberg Block Development**
 
-- 💬 Ask me about **WordPress Development, PHP, JavaScript**
+   💬 Ask me about **WordPress Development, PHP, JavaScript**
 
-- 📫 How to reach me **rayhanrahman880@gmail.com**
+   📫 How to reach me **rayhanrahman880@gmail.com**
 
-- ⚡ Fun fact **I'm Not Funny**
+   ⚡ Fun fact **I'm Not Funny**
 </div>
 
 ###
