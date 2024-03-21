@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋! Nice to see you</h2>
+<h2 align="left">Hey 👋! nice to see you</h2>
 
 ###
 
