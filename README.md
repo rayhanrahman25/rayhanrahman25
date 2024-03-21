@@ -9,6 +9,10 @@
 
 ###
 
+  <a href="https://app.daily.dev/rayhan420"><img align="right" src="https://github.com/rayhanrahman25/rayhanrahman25/blob/main/devcard.svg" width="250" alt="Rayhan Dev Card"/></a>
+  
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -30,10 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="csharp logo"  />
 </div>
-
-###
-
-  <a href="https://app.daily.dev/rayhan420"><img align="right" src="https://github.com/rayhanrahman25/rayhanrahman25/blob/main/devcard.svg" width="250" alt="Rayhan Dev Card"/></a>
 
 ###
 
