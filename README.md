@@ -48,7 +48,7 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-<div align="right">
+<div align="left">
   <a href="https://app.daily.dev/rayhan420"><img src="https://github.com/rayhanrahman25/rayhanrahman25/blob/main/devcard.svg" width="400" alt="Rayhan Dev Card"/></a>
 </div>
 ###
