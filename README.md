@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rayhan Rahman</h1>
 <h3 align="center">A passionate backend and wordpress developer from Bangladesh</h3>
-<a href="https://app.daily.dev/rayhan420"><img align="left" src="https://github.com/rayhanrahman25/rayhanrahman25/blob/main/devcard.svg" width="400" alt="Rayhan Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayhanrahman25&label=Profile%20views&color=0e75b6&style=flat" alt="rayhanrahman25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayhanrahman25" alt="rayhanrahman25" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<a href="https://app.daily.dev/rayhan420"><img align="right" src="https://github.com/rayhanrahman25/rayhanrahman25/blob/main/devcard.svg" width="400" alt="Rayhan Dev Card"/></a>
 
 - 🔭 I’m currently working as a **WordPress & Laravel Developer**
 
