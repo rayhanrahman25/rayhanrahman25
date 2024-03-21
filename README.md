@@ -29,6 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhanrahman25&show_icons=true&locale=en" alt="rayhanrahman25" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanrahman25&" alt="rayhanrahman25" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayhanrahman25&" alt="rayhanrahman25" />
 
-<a href="https://app.daily.dev/rayhan420"><img align="right" src="https://github.com/rayhanrahman25/rayhanrahman25/blob/main/devcard.svg" width="400" alt="Rayhan Dev Card"/></a>
+<a href="https://app.daily.dev/rayhan420"><img align="right" src="https://github.com/rayhanrahman25/rayhanrahman25/blob/main/devcard.svg" width="400" alt="Rayhan Dev Card"/></a> </p>
