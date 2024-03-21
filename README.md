@@ -52,7 +52,7 @@
 ###
 
 <div align="left">
-  <a href="https://app.daily.dev/rayhan420"><img src="https://github.com/rayhanrahman25/rayhanrahman25/blob/main/devcard.svg" width="30" alt="Rayhan Dev Card"/></a>
+  <a href="https://app.daily.dev/rayhan420"><img src="https://github.com/rayhanrahman25/rayhanrahman25/blob/main/devcard.svg" width="100" alt="Rayhan Dev Card"/></a>
 </div>
 
 ###
