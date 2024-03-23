@@ -9,7 +9,7 @@
 
 ###
 
-  <a href="https://app.daily.dev/rayhan420"><img algin="right" src="https://api.daily.dev/devcards/v2/t8hMa6YXsiFzFevoCeoJm.png?type=default&r=j03" width="356" alt="Rayhan rahman's Dev Card"/></a>
+  <a href="https://app.daily.dev/rayhan420"><img src="https://api.daily.dev/devcards/v2/t8hMa6YXsiFzFevoCeoJm.png?type=default&r=j03" width="256" alt="Rayhan rahman's Dev Card"/></a>
   
 ###
 
