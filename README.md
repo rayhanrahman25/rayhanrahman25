@@ -57,13 +57,13 @@
 
 ###
 
+<br clear="both">
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=rayhanrahman25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
 <div align="left">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
