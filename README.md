@@ -52,7 +52,7 @@
 
    📫 How to reach me **rayhanrahman880@gmail.com**
 
-   ⚡ Fun fact **I'm Funny**
+   ⚡ Fun fact is **I'm Funny**
 </div>
 
 ###
