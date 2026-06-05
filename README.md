@@ -41,8 +41,6 @@
 
    💬 Ask me about **WordPress Development, PHP, JavaScript**
 
-   📫 How to reach me **rayhanrahman880@gmail.com**
-
    ⚡ Fun fact is **I'm Funny**
 </div>
 
